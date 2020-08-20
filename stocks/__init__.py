@@ -1,5 +1,6 @@
 from .term import stocks
 
+
 def load(manager, params):
     """
     Create an launch a new instance of SnakeTerm.
